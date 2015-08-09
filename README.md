@@ -6,4 +6,4 @@ http://audreywatters.github.io/github-101
 
 Audrey Watters - @audreywatters
 
-DigPedLab 2015
+<a href="http://www.digitalpedagogylab.com/">DigPedLab 2015</a>
